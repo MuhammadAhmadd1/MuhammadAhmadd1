@@ -5,15 +5,9 @@ My focus is on delivering high-quality, cross-platform apps that provide seamles
 🚀 Tech Stack:
 
 Frontend: Flutter, Dart
-Backend: Firebase, Node.js
-Tools: Git, GitHub, VS Code, Android Studio👋 Hello, I'm [Your Name]
-I'm a passionate Flutter & Dart developer with a knack for crafting beautiful and efficient mobile applications. My focus is on delivering high-quality, cross-platform apps that provide seamless user experiences.
-
-🚀 Tech Stack:
-
-Frontend: Flutter, Dart
+Backend: Firebase, golang
 Tools: Git, GitHub, VS Code
-💡 Interests:
+
 
 Building scalable mobile applications
 Implementing responsive UI/UX designs
