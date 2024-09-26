@@ -5,7 +5,6 @@ My focus is on delivering high-quality, cross-platform apps that provide seamles
 🚀 Tech Stack:
 
 Frontend: Flutter, Dart
-Backend: Firebase, golang
 Tools: Git, GitHub, VS Code
 
 
