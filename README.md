@@ -13,7 +13,7 @@ Implementing responsive UI/UX designs
 Exploring new technologies and frameworks
 📫 Get in Touch:
 
-Email: ahmad.james.2315@gmail.com
+Email: ma.muhammadahmad15@gmail.com
 I’m always open to collaborating on interesting projects or discussing innovative ideas. Feel free to reach out!
 
 
