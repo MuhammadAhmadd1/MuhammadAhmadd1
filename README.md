@@ -13,7 +13,7 @@ Implementing responsive UI/UX designs
 Exploring new technologies and frameworks
 📫 Get in Touch:
 
-Email: ma.muhammadahmad15@gmail.com
+Email: mahmadping@gmail.com
 I’m always open to collaborating on interesting projects or discussing innovative ideas. Feel free to reach out!
 
 
